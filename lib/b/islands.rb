@@ -1,4 +1,4 @@
-require "b/islands/version"
+require_relative "./islands/version"
 
 module B
   module Islands
